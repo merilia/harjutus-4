@@ -103,7 +103,7 @@
 	 </pre>
 			<br>
 		<?php 
-			$num_string = implode(" ja ", $numbers_2)
+			$num_string = implode(" ja ", $numbers_2);
 		?>
 		<?php 
 			print_r($num_string); 
